@@ -1,0 +1,46 @@
+{
+  "title": "一杯咖啡的诞生：连续过程与机制剖面",
+  "medium": "新制作的三维教学动画；并非摄影或扫描",
+  "models": "本项目按实物结构制作的咖啡果、种子、磨盘、滤篮、压粉器、杯与奶缸模型",
+  "textures": [
+    {
+      "title": "Comfy Café",
+      "author": "Sergej Majboroda",
+      "license": "CC0",
+      "url": "https://polyhaven.com/a/comfy_cafe"
+    },
+    {
+      "title": "Wood Table 001",
+      "author": "Dimitrios Savva / Rico Cilliers",
+      "license": "CC0",
+      "url": "https://polyhaven.com/a/wood_table_001"
+    },
+    {
+      "title": "咖啡果、豆与器具表面",
+      "origin": "本项目制作"
+    },
+    {
+      "title": "拿铁杯面",
+      "origin": "本项目生成的纹理，配合编排的表面形成动画"
+    }
+  ],
+  "limits": [
+    "工艺时间被压缩",
+    "少量代表性物料，不表示一颗果实的出杯量",
+    "液体、颗粒和工艺变化是编排示意，并非精密物理仿真",
+    "影片固定视角；旋转观察使用独立实时模型",
+    "机器为通用原理剖面，非品牌CAD；工作轨迹为编排",
+    "果胶为湿黏中果皮部分，银皮紧贴豆体；薄层厚度适度夸张",
+    "颗粒与间隙放大，流路和气流着色仅用于观察"
+  ],
+  "voice": "可选设备自带中文语音；可用性和音质依设备而异，没有外部付费语音服务",
+  "mechanism_sources": [
+    "https://www.aboutcoffee.org/origins/what-is-coffee/",
+    "https://www.fao.org/input/download/standards/11250/CXP_069e.pdf",
+    "https://www.fao.org/4/ae939e/ae939e08.htm",
+    "https://penagos.com/en/technical-support/",
+    "https://www.probat.com/products/machines/roasting/p60/",
+    "https://www.baratza.com/en-au/landing/product/shop-by-burr-type",
+    "https://tore.tuhh.de/entities/publication/313fb619-97a3-40fb-a075-9b8cfdec4af0/"
+  ]
+}
