@@ -1,5 +1,9 @@
 # 一杯咖啡的诞生 · Coffee Origin Journey
 
+## [在线体验 · 打开咖啡之旅](https://yydshly.github.io/coffee-origin-journey/)
+
+无需下载或安装，直接在浏览器中观看和探索。
+
 从咖啡果到拿铁的中文教学演示。包含约 71 秒连续过程影片、可旋转三维物件、材料结构标注和分层工艺说明。
 
 ## 本地运行
